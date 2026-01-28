@@ -1,0 +1,30 @@
+# Hugo output
+/public/
+/resources/_gen/
+
+# Hugo cache (newer versions)
+.hugo_build.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Finder thumbnails
+._*
+
+# VS Code
+.vscode*
+
+# Other editors
+.sublime*
+.idea/
+*.swp
+*~
+
+# Node (if you use it for assets)
+node_modules/
+
+# OS temp
+tmp/

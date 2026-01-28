@@ -1,0 +1,22 @@
+{
+	"name": "Aubrey Portwood - Freelancer/Contractor - I want to be your goto web guy.",
+	"short_name": "Aubrey Portwood - Freelancer/Contractor - I want to be your goto web guy.",
+	"start_url": "/",
+	"scope": "/",
+	"display": "standalone",
+	"theme_color": "#eeeeee",
+	"background_color": "#198cff",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
